@@ -1,0 +1,24 @@
+                          ********** Final Bill **********
+
+=======================================================================================
+Pizza Name                      Size        Quantity      Unit Price      Total Amount
+=======================================================================================
+Country Special                  S             2             200            400
+
+Veggie Delight                   L             2             350            700
+
+Chicken Sausage                  L             1             375            375
+
+Potato Wedges                    L             2             115            230
+
+Chicken Wings                    M             1             115            115
+
+=======================================================================================
+Grand Total                                                                1820
+=======================================================================================
+
+			Pratyaksha Ambast Thanks for Ordering! 
+
+	Your order will be delivered at this address:  1006/E Mumbai
+
+	 You will be contacted on this mobile number: 9630258741
